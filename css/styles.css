@@ -1,6 +1,13 @@
 div {
-    background-color: aliceblue;
+    background: aliceblue;
+    color:midnightblue;
     border-style: solid;
-    border-radius: 72px
-    
+    border-radius: 72px;
+}
+
+.headsector{
+    background: darkblue;
+    font: bolder;
+    color: white;
+       
 }
